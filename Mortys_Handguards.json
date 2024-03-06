@@ -1,0 +1,68 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Mortys_Handguards",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "TTC_AKMod_Hndguard",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 450,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"TTC_AKMod_Snow_Hndguard",
+				"TTC_AKMod_Multi_Hndguard",
+				"TTC_AKMod_Digi_Hndguard",
+				"TTC_AKMod_Tan_Hndguard",
+				"TTC_AKMod_Gold_Hndguard"
+			]
+        },
+        {
+            "ClassName": "TTC_DMR_Hndguard",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 450,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"TTC_DMR_HndguardDesert",
+				"TTC_DMR_HndguardOD",
+				"TTC_DMR_HndguardSnow",
+				"TTC_DMR_Hndguard_SLR"
+			]
+        },
+        {
+            "ClassName": "TTC_FAL_RIS_Hndgrd",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 450,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"TTC_FAL_Wood-Hndgrd",
+				"TTC_FAL_Poly-Hndgrd"
+			]
+        },		
+        {
+            "ClassName": "TTC_CAR15V2_PlasticHndgrd",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 450,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}
